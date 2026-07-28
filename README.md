@@ -8,6 +8,9 @@ Fill in some text...
 ## Paragraph 2
 Fill in some text...
 
+## Note
+Reference the minimal theme repo to see formatting convention.
+[https://github.com/pages-themes/minimal/blob/master/index.md](url)
 ## Hi there 👋
 
 <!--
