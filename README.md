@@ -1,3 +1,13 @@
+# Mathematics and Computer Science
+
+### Technical Skills: C++, OCaml, .... 
+
+## Paragraph 1
+Fill in some text...
+
+## Paragraph 2
+Fill in some text...
+
 ## Hi there 👋
 
 <!--
