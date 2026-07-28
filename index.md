@@ -1,4 +1,4 @@
-# Entry Point
+# Mathematics and Computer Science
 
 ### Technical Skills: C++, OCaml, .... 
 
